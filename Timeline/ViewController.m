@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    // This is an objective c file but should have swift
 }
 
 - (void)didReceiveMemoryWarning {
